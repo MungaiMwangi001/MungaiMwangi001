@@ -1,5 +1,26 @@
 # 💫 About Me:
-I'm currently working on software development with the MERN stack.<br><br>I'm looking to collaborate in any software development projects .<br><br>I'm looking to work in any of the fields of software development, data science and machine learning.<br><br>I'm currently learning three.js, express.js, next.js and data science
+<h2>💻 Software Developer | MERN Stack | Data Science & ML Enthusiast</h2>
+
+<p>
+I’m a passionate software developer currently building with the 
+<strong>MERN stack</strong> and expanding into <strong>data science and machine learning</strong>. 
+My focus is on creating impactful, user-friendly solutions while continuously leveling up my technical skills.
+</p>
+
+<h3>🚀 What I’m up to right now:</h3>
+<ul>
+  <li>Developing full-stack applications with <strong>MongoDB, Express.js, React, and Node.js</strong></li>
+  <li>Learning <strong>Three.js, Next.js, and Express.js</strong> to enhance my web development expertise</li>
+  <li>Exploring <strong>data science and machine learning</strong> to apply intelligent insights to real-world problems</li>
+</ul>
+
+<h3>🤝 What I’m looking for:</h3>
+<ul>
+  <li>Collaboration opportunities in <strong>software development projects</strong></li>
+  <li>Roles or projects in <strong>web development, data science, or ML</strong> where I can contribute and grow</li>
+  <li>Connections with professionals and teams who are driving innovation</li>
+</ul>
+
 
 
 ## 🌐 Socials:
